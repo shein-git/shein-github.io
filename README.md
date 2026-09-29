@@ -15,7 +15,9 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Branch Performance Dashboard
-*A brief description of your project, the tools used, and the key insights derived.*
+*•	Developed a dashboard tracking monthly and yearly actual vs. target achievement for each branch.
+•	Tracked sales and monitored customers, providing visibility into branch performance and achievement.
+*
 
 ### Project Title Two
 *A brief description of your project, the tools used, and the key insights derived.*
