@@ -30,8 +30,8 @@ This template is set up to showcase your best work. You can easily customize the
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
+- **Data Visualization**: Power BI, Matplotlib, etc.
+- **Data Analysis**: SQL, Python (Pandas), Excel, etc.
 - **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
 - **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
 
